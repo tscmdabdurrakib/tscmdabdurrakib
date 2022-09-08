@@ -21,7 +21,7 @@ I am a full stack software engineer and a mobile app developer.
 ### 👨‍🏫 &nbsp; About Me
 
 <p align="justify">
-I am Rakib a full-stack developer with more than 5 years of experience in both designing, developing and programming websites & web applications using these technologies: (Java, Kotlin, WordPress, Shopify, PHP, Laravel, Woocommerce, Angular, React, Node, MongoDB) We have built ✅1500+ websites, web applications and 500+ App Develop for a broad range of industries from small and mid-level businesses to high-end companies & still counting... 🎯My aim has always been to build a website and app that looks professional.
+I am Rakib a full-stack developer with more than 5 years of experience in both designing, developing and programming websites & web applications using these technologies: (Java, Kotlin, WordPress, Shopify, PHP, Laravel, Woocommerce, Angular, React, Node, MongoDB) We have built ✅1500+ websites, web applications and ✅500+ App Develop for a broad range of industries from small and mid-level businesses to high-end companies & still counting... 🎯My aim has always been to build a website and app that looks professional.
 </p>
 
 <br />
