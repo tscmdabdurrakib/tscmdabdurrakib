@@ -67,16 +67,16 @@ I am Rakib a full-stack developer with more than 5 years of experience in both d
 
 | Position            | Institute                                   | Duration            | Location           |
 | ------------------- | ------------------------------------------- | ------------------- | ------------------ |
-| Full-stack trainer  | Integrify                                   | Aug 2022 - Running  | Helsinki, BD       |
-| Software Engineer   | M-Files                                     | Nov 2021 - Feb 2022 | Tampere,  BD       |
-| Cleaner (Part-time) | COOR Oy                                     | Mar 2020 - Nov 2021 | Tampere,  BD       |
-| Courier (Part-time) | Posti Oy                                    | Oct 2019 - Running  | Tampere,  BD       |
-| Research Assistant  | Tampere University                          | Nov 2020 - Jan 2021 | Tampere,  BD       |
-| Lecturer of ICT     | Jaflong Valley Boarding School              | Jul 2018 – Nov 2018 | Sylhet, Bangladesh |
-| Guest Lecturer      | Sylhet Engineering College                  | Nov 2017 – Apr 2018 | Sylhet, Bangladesh |
-| Android developer   | United Computer & Technical Training Center | Nov 2016 – Nov 2017 | Sylhet, Bangladesh |
-| Lecturer of ICT     | Zhingabari High School & College            | May 2016 – Aug 2017 | Sylhet, Bangladesh |
-| Content Creator     |                                             | Jan 2012- Running   | USA                |
+| Full-stack trainer  | Integrify                                   | Aug 2022 - Running  | Mirpur,   BD       |
+| Software Engineer   | M-Files                                     | Nov 2021 - Feb 2022 | Dhaka,    BD       |
+| Cleaner (Part-time) | COOR Oy                                     | Mar 2020 - Nov 2021 | Dhaka,    BD       |
+| Courier (Part-time) | Posti Oy                                    | Oct 2019 - Running  | Dhaka,    BD       |
+| Research Assistant  | Tampere University                          | Nov 2020 - Jan 2021 | Dhaka,    BD       |
+| Lecturer of ICT     | Jaflong Valley Boarding School              | Jul 2018 – Nov 2018 | Dhaka,    BD       |
+| Guest Lecturer      | Sylhet Engineering College                  | Nov 2017 – Apr 2018 | Dhaka,    BD       |
+| Android developer   | United Computer & Technical Training Center | Nov 2016 – Nov 2017 | Dhaka,    BD       |
+| Lecturer of ICT     | Zhingabari High School & College            | May 2016 – Aug 2017 | Dhaka,    BD       |
+|                                                                                                              |
 
 <br />
 <!-- work experience section ends here  -->
