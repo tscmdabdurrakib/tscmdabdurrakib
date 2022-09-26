@@ -6,7 +6,7 @@
 
 I am a full stack software engineer and a mobile app developer. <br/><br/>
 
-<a style="margin-right:50px;" href="https://app.daily.dev/tscmdabdurrakib"><img src="https://api.daily.dev/devcards/abbada87ff0d48408e86c515f8d43b36.png?r=of1" width="400" alt="Md Abdur Rakib's Dev Card"/></a>
+<a href="https://app.daily.dev/tscmdabdurrakib"><img src="https://api.daily.dev/devcards/abbada87ff0d48408e86c515f8d43b36.png?r=of1" hspace="20" width="400" alt="Md Abdur Rakib's Dev Card"/></a>
 <a href="https://app.daily.dev/tscmdabdurrakib"><img src="https://api.daily.dev/devcards/abbada87ff0d48408e86c515f8d43b36.png?r=of1" width="400" alt="Md Abdur Rakib's Dev Card"/></a>
 
 <!-- Contact me section starts here  -->
