@@ -23,7 +23,7 @@ I am a full stack software engineer and a mobile app developer. <br/><br/>
 <a href="https://dribbble.com/tscmdabdurrakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="tscmdabdurrakib" height="30" width="40" /></a>
 <a href="https://www.behance.net/tscmdabdurrakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="tscmdabdurrakib" height="30" width="40" /></a>
 <a href="https://medium.com/@tscmdabdurrakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tscmdabdurrakib" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/md abdur rakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="md abdur rakib" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCloWu3u7Nrf4NoPLCM1jyOQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="md abdur rakib" height="30" width="40" /></a>
 </p>
 <br />
 <br />
