@@ -9,19 +9,7 @@ I am a full stack software engineer and a mobile app developer. <br/><br/>
 <a href="https://app.daily.dev/tscmdabdurrakib"><img src="https://api.daily.dev/devcards/abbada87ff0d48408e86c515f8d43b36.png?r=of1" hspace="15" width="400" alt="Md Abdur Rakib's Dev Card"/></a>
 <a href="https://app.daily.dev/tscmdabdurrakib"><img src="https://api.daily.dev/devcards/abbada87ff0d48408e86c515f8d43b36.png?r=of1" width="400" alt="Md Abdur Rakib's Dev Card"/></a>
 
- <!--badge button start  -->
-<br />
-<br />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tscmdabdurrakib&label=Profile%20views&color=0e75b6&style=flat" alt="mszeles" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mszeles" alt="mszeles" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/tscmdabdurrakib" target="blank"><img src="https://img.shields.io/twitter/follow/mszeles?logo=twitter&style=for-the-badge" alt="mszeles" /></a> </p>
-
-<br />
-<br />
-
- <!--badge button end  -->
 
 <!-- Contact me section starts here  -->
 
@@ -132,6 +120,20 @@ I am Rakib a full-stack developer with more than 5 years of experience in both d
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tscmdabdurrakib&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+
+ <!--badge button start  -->
+<br />
+<br />
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tscmdabdurrakib" alt="tscmdabdurrakib" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/tscmdabdurrakib" target="blank"><img src="https://img.shields.io/twitter/follow/tscmdabdurrakib?logo=twitter&style=for-the-badge" alt="tscmdabdurrakib" /></a> </p>
+
+<br />
+<br />
+
+ <!--badge button end  -->
+
 [![](https://visitcount.itsvg.in/api?id=tscmdabdurrakib&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
