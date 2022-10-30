@@ -127,7 +127,17 @@ I am Rakib a full-stack developer with more than 5 years of experience in both d
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tscmdabdurrakib" alt="tscmdabdurrakib" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/tscmdabdurrakib" target="blank"><img src="https://img.shields.io/twitter/follow/tscmdabdurrakib?logo=twitter&style=for-the-badge" alt="tscmdabdurrakib" /></a> </p>
+<p align="left"> <a href="https://github.com/tscmdabdurrakib" target="blank"><img src="https://img.shields.io/symfony/i/stars/825be328-29f8-44f7-a750-f82818ae9111?style=for-the-badge"/></a> </p>
+
+<p align="left"> <a href="https://github.com/tscmdabdurrakib" target="blank"><img src="https://img.shields.io/github/followers/tscmdabdurrakib?style=social"/></a> </p>
+
+<p align="left"> <a href="https://twitter.com/tscmdabdurrakib" target="blank"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Ftscmdabdurrakib"/></a> </p>
+
+<p align="left"> <a href="https://twitter.com/tscmdabdurrakib" target="blank"><img src="https://img.shields.io/twitter/follow/tscmdabdurrakib?style=social"/></a> </p>
+
+<p align="left"> <a href="https://www.youtube.com/channel/UCloWu3u7Nrf4NoPLCM1jyOQ" target="blank"><img src="https://img.shields.io/youtube/channel/views/UCloWu3u7Nrf4NoPLCM1jyOQ?style=social"/></a> </p>
+
+<p align="left"> <a href="https://www.youtube.com/channel/UCloWu3u7Nrf4NoPLCM1jyOQ" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCloWu3u7Nrf4NoPLCM1jyOQ?style=social"/></a> </p>
 
 <br />
 <br />
